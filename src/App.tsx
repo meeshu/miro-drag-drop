@@ -7,11 +7,10 @@ const { board } = miro;
 
 function App() {
   const images = [
-    "https://static-website.miro.com/static/images/page/mr-features-1/tour-m-projects.svg",
-    "https://static-website.miro.com/static/images/page/mr-features-1/tour-m-account.svg",
-    "https://static-website.miro.com/static/images/page/mr-features-1/tour-m-product.svg",
-    "https://static-website.miro.com/static/images/page/mr-features-1/tour-m-ux-research.svg",
-    "https://static-website.miro.com/static/images/page/mr-features-1/tour-m-learn.svg",
+    "https://drive.google.com/file/d/1XxCrJlt8lUCNHVl5ulCc3iw9i_6juCPB/view?usp=sharing",
+    "https://drive.google.com/file/d/14dbuzlGzDJmMoeEMjsQsFfa7o7KtQQ6E/view?usp=sharing",
+    "https://drive.google.com/file/d/1SBpTXzYxFHNg_HGOXdW-fVnM9iZRn9ls/view?usp=sharing",
+    "https://drive.google.com/file/d/11QATYWUvdU9qaiaiBdLnN0-t3jG-cYtR/view?usp=sharing",
   ];
 
   const drop = async (e: DropEvent) => {
