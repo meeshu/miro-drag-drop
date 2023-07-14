@@ -7,10 +7,10 @@ const { board } = miro;
 
 function App() {
   const images = [
-    "https://github.com/meeshu/static-site/blob/main/age.svg",
-    "https://github.com/meeshu/static-site/blob/main/dob.svg",
-    "https://github.com/meeshu/static-site/blob/main/gender.svg",
-    "https://github.com/meeshu/static-site/blob/main/name.svg",
+    "images/age.svg",
+    "images/dob.svg",
+    "images/gender.svg",
+    "images/name.svg",
   ];
 
   const drop = async (e: DropEvent) => {
