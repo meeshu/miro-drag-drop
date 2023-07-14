@@ -7,10 +7,10 @@ const { board } = miro;
 
 function App() {
   const images = [
-    "images/age.svg",
-    "images/dob.svg",
-    "images/gender.svg",
-    "images/name.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689317014/ui-images/age_xrisun.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689317014/ui-images/dob_pvekdd.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689317014/ui-images/gender_qktqla.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689317014/ui-images/name_wrbuck.svg",
   ];
 
   const drop = async (e: DropEvent) => {
