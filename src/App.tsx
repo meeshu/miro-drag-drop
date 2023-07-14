@@ -7,10 +7,10 @@ const { board } = miro;
 
 function App() {
   const images = [
-    "https://drive.google.com/file/d/1XxCrJlt8lUCNHVl5ulCc3iw9i_6juCPB/view?usp=sharing",
-    "https://drive.google.com/file/d/14dbuzlGzDJmMoeEMjsQsFfa7o7KtQQ6E/view?usp=sharing",
-    "https://drive.google.com/file/d/1SBpTXzYxFHNg_HGOXdW-fVnM9iZRn9ls/view?usp=sharing",
-    "https://drive.google.com/file/d/11QATYWUvdU9qaiaiBdLnN0-t3jG-cYtR/view?usp=sharing",
+    "https://github.com/meeshu/static-site/blob/main/age.svg",
+    "https://github.com/meeshu/static-site/blob/main/dob.svg",
+    "https://github.com/meeshu/static-site/blob/main/gender.svg",
+    "https://github.com/meeshu/static-site/blob/main/name.svg",
   ];
 
   const drop = async (e: DropEvent) => {
