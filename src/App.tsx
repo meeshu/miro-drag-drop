@@ -18,6 +18,7 @@ function App() {
     "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372605/ui-images/Ethnicity_vnuuwk.svg",
     "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372604/ui-images/dob_kfjazi.svg",
     "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689369738/ui-images/age.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689634140/ui-images/allergies.svg"
 
 
 
