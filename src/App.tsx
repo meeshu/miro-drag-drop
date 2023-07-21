@@ -8,18 +8,17 @@ const { board } = miro;
 function App() {
   const images = [
     "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372606/ui-images/Status_kgn1aj.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372606/ui-images/sex_a6alzz.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372606/ui-images/Occupation_euhpcs.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372606/ui-images/Race_ymykly.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372605/ui-images/Income_Level_drrxwl.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372605/ui-images/Location_c8gqef.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372605/ui-images/gender_wwxxen.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372605/ui-images/Education_Level_l38z3m.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372605/ui-images/Ethnicity_vnuuwk.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689372604/ui-images/dob_kfjazi.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689369738/ui-images/age.svg",
-    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689634140/ui-images/allergies.svg"
-
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689879072/image_lqpraq.jpg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636252/Symptom_j894tf.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636431/Immunization_yz8qqs.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636431/Insurance_bb1qgu.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636431/Medications_mfnl1h.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636431/Disabilities_jzkeom.png",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636430/Tobacco_nzadim.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636429/Test_Result_svao6m.svg" ,
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636429/Transportation_y9e5jt.svg" ,
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636429/Economic_acu2gh.svg",
+    "https://res.cloudinary.com/dp6w2kgzd/image/upload/v1689636429/Health_Literacy_cqcylp.svg"
 
 
   ];
